@@ -1,0 +1,11 @@
+name: BaseBuild
+version: 0.5
+author: benned
+main: de.ben.BaseBuild.main.Main
+commands:
+   setcords:
+      descriprion: Set team locations.
+   start:
+      description: Start the game.
+   stats:
+      description: Show stats of player.
